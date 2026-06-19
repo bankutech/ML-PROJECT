@@ -1,0 +1,8 @@
+node_modules/
+.venv/
+venv/
+.cache/
+.next/
+__pycache__/
+*.msi
+*.zip
